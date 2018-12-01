@@ -14,8 +14,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 - [All-time favorites](https://www.goodreads.com/tba)
 - [Read](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=read)
 - [Antilibrary](tba)
-- [Abandoned; respectable dent](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=dnf-but-useful)
-- [Abandoned; wasn't for me](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=abando-not-for-me)
+- [Respectable dent](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=dnf-but-useful)
+- [Abandoned](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=abando-not-for-me)
 
 ## Essays
 

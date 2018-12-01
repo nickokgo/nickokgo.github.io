@@ -1,4 +1,4 @@
-title: Nick Mauro
+title: Delete this shit
 url: "http://nickmauro.net"
 baseurl: "/home"
 
@@ -13,7 +13,3 @@ footer_text: "One thought after the other"
 sass:
     style: compressed
     sass_dir: _sass
-
-nav:
- - name: "home"
-   link: "/home/"
