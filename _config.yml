@@ -1,6 +1,6 @@
 title: Delete this shit
 url: "http://nickmauro.net"
-baseurl: "/home"
+baseurl: "/"
 
 markdown: kramdown
 
