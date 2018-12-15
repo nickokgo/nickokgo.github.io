@@ -26,12 +26,12 @@ I like turtles
 
 #### Product Management
 
-1. Coming soon?
+- Coming soon?
 
 ## Silly
 
-1. [Principles](https://airtable.com/shrmOXGFxHh0tnnGH)
-2. Coming soon??
+- [Principles](https://airtable.com/shrmOXGFxHh0tnnGH)
+- Coming soon??
 
 ## Links
 
