@@ -20,9 +20,9 @@ I like turtles
 
 - [Hard determinism and negative emotions](https://medium.com/hardly-determined/hard-determinism-and-negative-emotions-d872d691ca0b) (2017)
 - [Do people have free will?](https://medium.com/hardly-determined/do-people-have-free-will-3ad54599d3cf) (2017)
-- [A Better Case for Rational Thinking](https://betterhumans.coach.me/a-better-case-for-rational-thinking-dd70170ce912) (2016)
-- [Softening Negative Sensations](https://betterhumans.coach.me/softening-the-sensations-of-sorrow-67f8ecdf2dce) (2015)
-- [Snow on Your Pants](https://betterhumans.coach.me/snow-on-your-pants-6a80613118a7) (2015)
+- [A better case for rational thinking](https://betterhumans.coach.me/a-better-case-for-rational-thinking-dd70170ce912) (2016)
+- [Softening negative sensations](https://betterhumans.coach.me/softening-the-sensations-of-sorrow-67f8ecdf2dce) (2015)
+- [Snow on your pants](https://betterhumans.coach.me/snow-on-your-pants-6a80613118a7) (2015)
 
 #### Product Management
 
