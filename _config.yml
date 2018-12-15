@@ -8,7 +8,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "http://nickmauro.net"
-footer_text: "One thought after the other"
+footer_text: "One thought after the other!"
 
 sass:
     style: compressed

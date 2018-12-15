@@ -14,7 +14,7 @@ I like turtles
 - [Respectable dent](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=respectable-dent)
 - [Abandoned](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=str8-abando)
 
-## Writings
+## Essays
 
 #### Philosophy
 
