@@ -8,10 +8,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Bookshelves
 
-- [Now reading](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=currently-reading)
-- [All-time favorites](https://www.goodreads.com/tba)
+- [Reading](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=currently-reading)
 - [Read](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=read)
-- [Antilibrary](tba)
+- [Favorites](https://www.goodreads.com/tba)
 - [Respectable dent](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=dnf-but-useful)
 - [Abandoned](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=abando-not-for-me)
 
