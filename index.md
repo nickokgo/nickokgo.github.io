@@ -30,7 +30,7 @@ I like turtles
 
 ## Experimental
 
-- [Principles](https://airtable.com/shrmOXGFxHh0tnnGH)
+- [Life principles](https://airtable.com/shrmOXGFxHh0tnnGH)
 - [Instapaper ♥](https://www.instapaper.com/p/nicholas)
 
 ## Links
