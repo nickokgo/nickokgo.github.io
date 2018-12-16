@@ -28,10 +28,10 @@ I like turtles
 
 - Coming soon?
 
-## Silly
+## Experimental
 
 - [Principles](https://airtable.com/shrmOXGFxHh0tnnGH)
-- Coming soon??
+- [Instapaper ♥](https://www.instapaper.com/p/nicholas)
 
 ## Links
 
