@@ -11,7 +11,7 @@ I like turtles
 - [Reading](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=currently-reading)
 - [Read](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=read)
 - [Favorites](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=favorites)
-- [Temporarily abandoned](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=abandon-try-again)
+- [Temporarily abandoned](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=abando-try-again)
 - [Abandoned forever](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=str8-abando)
 
 ## Essays
