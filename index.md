@@ -34,7 +34,7 @@ I like turtles
 
 - Coming soon?!
 
-## Experimental 👨‍🔬
+## Experiments👨‍🔬
 
 - [Life principles](https://airtable.com/shrmOXGFxHh0tnnGH)
 - [Beliefs](https://paper.dropbox.com/doc/Beliefs--AUpqBKMIshHTooL5_YFGuDwwAQ-c1TVJjhEq0O6aZ9x4LIf8)
