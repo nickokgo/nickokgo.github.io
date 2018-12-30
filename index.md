@@ -18,7 +18,7 @@ I like turtles
 
 ### Other
 
-- [Instapaper♥](https://www.instapaper.com/p/nicholas)
+- [Instapaper ♥](https://www.instapaper.com/p/nicholas)
 
 ## Writing
 
@@ -32,9 +32,9 @@ I like turtles
 
 #### Product Management
 
-- Coming soon?!
+- Coming soon?
 
-## Experiments👨‍🔬
+## Experiments!
 
 - [Life principles](https://airtable.com/shrmOXGFxHh0tnnGH)
 - [Beliefs](https://paper.dropbox.com/doc/Beliefs--AUpqBKMIshHTooL5_YFGuDwwAQ-c1TVJjhEq0O6aZ9x4LIf8)
