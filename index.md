@@ -18,7 +18,7 @@ I like turtles
 
 ### Other
 
-- [Instapaper ♥](https://www.instapaper.com/p/nicholas)
+- [Instapaper♥](https://www.instapaper.com/p/nicholas)
 
 ## Writing
 
@@ -45,4 +45,6 @@ I like turtles
 * [Twitter](https://twitter.com/nickmauro_)
 * [Facebook](https://www.facebook.com/nick.mauro.714)
 
--
+
+
+^-^
