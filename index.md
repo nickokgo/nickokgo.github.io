@@ -6,15 +6,21 @@ layout: default
 
 I like turtles
 
-## Bookshelves
+## Reading
 
-- [Reading](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=currently-reading)
+### Books
+
+- [In progress](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=currently-reading)
 - [Read](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=read)
 - [Favorites](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=favorites)
 - [Temporarily abandoned](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=abando-try-again)
 - [Abandoned forever](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=str8-abando)
 
-## Essays
+### Other
+
+- [Instapaper ♥](https://www.instapaper.com/p/nicholas)
+
+## Writing
 
 #### Philosophy
 
@@ -28,12 +34,12 @@ I like turtles
 
 - Coming soon?!
 
-## Experimental
+## Experimental 👨‍🔬
 
 - [Life principles](https://airtable.com/shrmOXGFxHh0tnnGH)
-- [Instapaper ♥](https://www.instapaper.com/p/nicholas)
+- [Beliefs](https://paper.dropbox.com/doc/Beliefs--AUpqBKMIshHTooL5_YFGuDwwAQ-c1TVJjhEq0O6aZ9x4LIf8)
 
-## Links
+## Social
 
 * [LinkedIn](https://www.linkedin.com/in/nmauro1)
 * [Twitter](https://twitter.com/nickmauro_)
