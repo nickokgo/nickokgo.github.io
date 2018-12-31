@@ -37,6 +37,7 @@ I like turtles
 ## Experiments!
 
 - [Life principles](https://airtable.com/shrmOXGFxHh0tnnGH)
+- [Aphorisms](https://paper.dropbox.com/doc/Aphorisms--AUx9wRo2hLaLxvZweoKUJz7qAg-v8XGvhOppLa1DC3MOUYqK)
 - [Beliefs](https://paper.dropbox.com/doc/Beliefs--AUpqBKMIshHTooL5_YFGuDwwAQ-c1TVJjhEq0O6aZ9x4LIf8)
 
 ## Social
