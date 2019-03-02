@@ -37,8 +37,8 @@ I like turtles
 ## Experiments!
 
 - [Principles](https://airtable.com/shrmOXGFxHh0tnnGH)
-- [Aphorisms](https://paper.dropbox.com/doc/Aphorisms--AUx9wRo2hLaLxvZweoKUJz7qAg-v8XGvhOppLa1DC3MOUYqK)
-- [Beliefs](https://paper.dropbox.com/doc/Beliefs--AUpqBKMIshHTooL5_YFGuDwwAQ-c1TVJjhEq0O6aZ9x4LIf8)
+- [Proverbs](https://medium.com/@thewrongsideof_/proverbs-40aadf45c257)
+- [Beliefs](https://medium.com/@thewrongsideof_/beliefs-7a5a67df153f)
 
 ## Social
 
