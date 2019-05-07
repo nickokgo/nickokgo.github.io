@@ -12,7 +12,8 @@ I like turtles
 
 - [In progress](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=currently-reading)
 - [Read](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=read)
-- [Favorites](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=favorites)
+  - [Favorites](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=favorites)
+  - [Product Management](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=pm)
 - [Temporarily abandoned](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=abando-try-again)
 - [Abandoned forever](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=str8-abando)
 
