@@ -37,9 +37,9 @@ I like turtles
 
 ## Experiments!
 
-- [Principles](https://airtable.com/shrmOXGFxHh0tnnGH)
-- [Proverbs](https://medium.com/@thewrongsideof_/proverbs-40aadf45c257)
-- [Beliefs](https://medium.com/@thewrongsideof_/beliefs-7a5a67df153f)
+- [Guiding principles](https://airtable.com/shrmOXGFxHh0tnnGH)
+- [Popular beliefs](https://medium.com/@thewrongsideof_/beliefs-7a5a67df153f)
+- [As they say!](https://medium.com/@thewrongsideof_/proverbs-40aadf45c257)
 
 ## Social
 
