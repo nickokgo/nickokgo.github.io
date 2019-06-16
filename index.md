@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I like turtles
+Animal sounds
 
 ## Reading
 
