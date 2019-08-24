@@ -36,10 +36,6 @@ I got nothing
 
 - [6 questions to ask on phone screens](https://nickmauro.substack.com/p/6-questions-to-ask-on-phone-screens) (2019)
 
-## Experiments!
-
-- [Guiding principles](https://airtable.com/shrmOXGFxHh0tnnGH)
-
 ## Social
 
 * [Twitter](https://twitter.com/nickmauro_)
