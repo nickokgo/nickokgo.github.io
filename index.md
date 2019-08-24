@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I got nothing
+I got nothing!
 
 ## Reading
 
@@ -34,7 +34,7 @@ I got nothing
 
 #### Product Management (Substack)
 
-- [6 questions to ask on phone screens](https://nickmauro.substack.com/p/6-questions-to-ask-on-phone-screens) (2019)
+- [6 questions to ask during phone screens](https://nickmauro.substack.com/p/6-questions-to-ask-on-phone-screens) (2019)
 
 ## Social
 
