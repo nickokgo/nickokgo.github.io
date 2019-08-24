@@ -11,19 +11,19 @@ Animal sounds
 ### Books
 
 - [In progress](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=currently-reading)
-- [Read](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=read)
+- [Finished](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=read)
   - [Favorites](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=favorites)
   - [Product Management](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=pm)
 - [Temporarily abandoned](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=abando-try-again)
 - [Abandoned forever](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=str8-abando)
 
-### Other
+### Web
 
 - [Instapaper ♥](https://www.instapaper.com/p/nicholas)
 
 ## Writing
 
-#### Philosophy
+#### Philosophy (Medium)
 
 - [Hard determinism and negative emotions](https://medium.com/hardly-determined/hard-determinism-and-negative-emotions-d872d691ca0b) (2017)
 - [Do people have free will?](https://medium.com/hardly-determined/do-people-have-free-will-3ad54599d3cf) (2017)
@@ -31,21 +31,21 @@ Animal sounds
 - [Softening negative sensations](https://betterhumans.coach.me/softening-the-sensations-of-sorrow-67f8ecdf2dce) (2015)
 - [Snow on your pants](https://betterhumans.coach.me/snow-on-your-pants-6a80613118a7) (2015)
 
-#### Product Management
+#### Product Management (Substack)
 
-- Coming soon?
+- [6 questions to ask on phone screens](https://nickmauro.substack.com/p/6-questions-to-ask-on-phone-screens)
 
 ## Experiments!
 
 - [Guiding principles](https://airtable.com/shrmOXGFxHh0tnnGH)
-- [Popular beliefs](https://medium.com/@thewrongsideof_/beliefs-7a5a67df153f)
-- [As they say!](https://medium.com/@thewrongsideof_/proverbs-40aadf45c257)
 
 ## Social
 
 * [Twitter](https://twitter.com/nickmauro_)
 * [Facebook](https://www.facebook.com/nick.mauro.714)
 * [LinkedIn](https://www.linkedin.com/in/nmauro1)
+* [Substack](https://nickmauro.substack.com/)
+* [Medium](https://medium.com/@thewrongsideof_)
 
 
 
