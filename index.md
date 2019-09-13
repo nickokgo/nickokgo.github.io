@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I got nothing!
+What matters the most is how we feel
 
 ## Reading
 
