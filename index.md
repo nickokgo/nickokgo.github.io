@@ -14,8 +14,8 @@ What matters the most is how we feel 😌
 - [Finished](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=read)
   - [Favorites](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=favorites)
   - [Product Management](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=pm)
-- [Temporarily abandoned](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=abando-try-again)
-- [Abandoned forever](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=str8-abando)
+- [Temporarily abandoned?](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=abando-try-again)
+- [Abandoned forever!](https://www.goodreads.com/review/list/39637504-nick-mauro?shelf=str8-abando)
 
 ### Web
 
