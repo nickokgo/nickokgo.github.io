@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-What matters the most is how we feel 😌
+Never say anything about having lost it, but only to have given it back 😌
 
 ## Reading
 
