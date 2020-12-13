@@ -23,6 +23,10 @@ Never say anything about having lost it, but only to have given it back 😌
 
 ## Writing
 
+#### Substack
+
+- [Distro](https://distro.substack.com)
+
 #### Philosophy (Medium)
 
 - [Free will and negative emotions
